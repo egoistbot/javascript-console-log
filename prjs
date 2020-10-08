@@ -1,0 +1,11 @@
+<html>
+
+<script>
+	
+window.onload = function(){
+	console.log("egoistbot");
+}
+
+</script>	
+
+</html>
